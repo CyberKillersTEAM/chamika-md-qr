@@ -1,9 +1,9 @@
 {
-    "name": "senu-md",
+    "name": "chamika-md-qr",
     "description": "Nothing to say !",
     "logo": "",
-    "repository": "https://github.com/CyberKillersTEAM/senu-md-qr",
-    "keywords": ["whatsappbot", "senumd", "senu Md bot", "Senu-Md", "SenuMdWhatsaooBot", "SenuWaBot","SenuMD","Senu Md Whatsapp Bot","multi device"],
+    "repository": "https://github.com/CyberKillersTEAM/chamika-md-qr",
+    "keywords": ["whatsappbot", "chamikamdd", "chamika Md bot", "Chamika-Md", "ChamikaMdWhatsaooBot", "ChamikaWaBot","ChamikaMD","Chamika Md Whatsapp Bot","multi device"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
     "env": {      
