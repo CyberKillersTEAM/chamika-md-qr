@@ -13,7 +13,7 @@ const fs = require("fs-extra");
 const { Boom } = require("@hapi/boom");
 const PORT = process.env.PORT ||  5000
 const MESSAGE = process.env.MESSAGE ||  `
-*THIS IS SENU-MD WHATSAPP USER BOT !*
+*THIS IS CHAMIKA-MD WHATSAPP USER BOT !*
 `
 
 
