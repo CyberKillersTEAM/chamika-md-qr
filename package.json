@@ -1,6 +1,6 @@
 {
 
-    "name": "senu-md-qr",
+    "name": "chamika-md-qr",
 
     "version": "0.0.1",
 
@@ -16,7 +16,7 @@
 
     },
 
-    "keywords": ["baileysQr","MdLogin", "Senu-Md","whatsapp-bot","BotWhatsapp","whatsappMdLogin","adiwajshing/baileys","baileys-md-qr","multi-device-qr","md-qr","bot-qr","baileysQrScanner","wabot" ],
+    "keywords": ["baileysQr","MdLogin", "Chamika-Md","whatsapp-bot","BotWhatsapp","whatsappMdLogin","adiwajshing/baileys","baileys-md-qr","multi-device-qr","md-qr","bot-qr","baileysQrScanner","wabot" ],
 
     "author": "MrIsuru",
 
@@ -42,7 +42,7 @@
 
         "type": "git",
 
-        "url": "git+https://github.com/CyberKillersTEAM/senu-md-qr.git"
+        "url": "git+https://github.com/CyberKillersTEAM/chamika-md-qr.git"
 
     }
 
